@@ -1,0 +1,6 @@
+option
+
+input <filename>
+
+read | reada [<filename>]
+
